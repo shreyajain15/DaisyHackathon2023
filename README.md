@@ -1,7 +1,7 @@
 # DaisyHackathon2023
 
 ## Clementine 
-### Your virtual pricing assistant
+###### Your virtual pricing assistant
 
 Created a robust solution using Machine Learning to help small retail businesses manage their prices amongst their competitors to make maximum profits. 
 
