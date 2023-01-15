@@ -43,7 +43,7 @@ with open("dataset_retail.csv", "r") as csv_file:
             distance = calculated_value
             object_details = row
             
-
+print(row)
 
         
 
