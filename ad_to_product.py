@@ -122,12 +122,6 @@ if price/our_price >20:
 if price<our_price:
     print('Lower prices of', row[0].strip(' {"name": '), 'to', price)
 
-        
-
-
-
-#for word in data_information:
-    
 
 
 
