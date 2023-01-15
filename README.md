@@ -1,6 +1,7 @@
 # DaisyHackathon2023
 
-## Clementine - ###### Your virtual pricing assistant
+## Clementine
+###### Your virtual pricing assistant
 
 Created a robust solution using Machine Learning to help small retail businesses manage their prices amongst their competitors to make maximum profits. 
 
@@ -11,6 +12,7 @@ The program takes in the retial competitors online flyers and then recognizes th
 - Uses Levenshtein distance algorithm to understand which item on the flyer maps best to the one in our inventory
 
 Overall, our solution is a  free pricing tool that reads through flyers to determine the going price of products sold by competitors!
+
 
 
 
